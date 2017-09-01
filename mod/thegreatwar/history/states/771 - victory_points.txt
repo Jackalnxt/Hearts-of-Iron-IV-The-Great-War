@@ -529,11 +529,13 @@ state={
 		victory_points = { 935 1 }
 		victory_points = { 9771 1 }
 #212
-		victory_points = { 9610 1 }
+		victory_points = { 3796 1 }
+		victory_points = { 6952 2 }
+		victory_points = { 9612 3 }
 		victory_points = { 6842 1 }
 #211
 		victory_points = { 9902 1 }
-		victory_points = { 9769 1 }
+		victory_points = { 649 1 }
 #184
 		victory_points = { 11905 1 }
 		victory_points = { 9930 1 }
